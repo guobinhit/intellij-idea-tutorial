@@ -33,7 +33,7 @@
 
 ![5](http://img.blog.csdn.net/20170310171448664)
 
-在这里，需要说明一下，IntelliJ IDEA 默认是安装到 C 盘的`Program Files (x86)`目录下的，如果咱们想安装到 C 盘的该目录下，点击“Next”即可；如果想修改 IntelliJ IDEA 的安装目录，则点击“Browse”进行修改，如博主修改 IntelliJ IDEA 的安装目录后，如下图所示：
+在这里，需要说明一下，IntelliJ IDEA 默认是安装到 C 盘的`Program Files (x86)`目录下的，如果咱们想安装到 C 盘的该目录下，点击“Next”即可；如果想修改 IntelliJ IDEA 的安装目录，则点击“Browse”进行修改，当咱们修改 IntelliJ IDEA 的安装目录后，如下图所示：
 
 ![6](http://img.blog.csdn.net/20170310171905279)
 
