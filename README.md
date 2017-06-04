@@ -11,9 +11,9 @@
 
 第 2 篇：[首次运行 IntelliJ IDEA 示例](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/first-run-idea.md)
 
-第 3 篇：
+第 3 篇：[IntelliJ IDEA 安装目录的核心文件讲解](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/core-file-talk.md)
 
-第 4 篇：
+第 4 篇：[详述 IntelliJ IDEA 的使用界面](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/use-face.md)
 
 第 5 篇：
 
