@@ -10,7 +10,7 @@
 
 上面的界面，咱们在前一篇博文中已经进行了介绍，在这里，咱们选择“ Java ”-->“ Java EE ”进行项目的创建，然后着重看一下第一个红色箭头所指的“ Project SDK ”，其表示在接下来咱们的项目中所使用的 SDK，要想进行设置，这就需要咱们在事先下载好 JDK 啦！
 
-那么如何下载并安装 JDK 呢？不用怕，在博文“ [在 Win10 系统下安装 JDK 及配置环境变量的方法](http://blog.csdn.net/qq_35246620/article/details/61208961) ”中，咱们已经演示了具体的操作过程了，以 Win10 为例，Win7 同理。接下来，点击“ Project SDK ”后面的“ New ”进行 JDK 的设置：
+那么如何下载并安装 JDK 呢？不用怕，在博文“ [在 Win10 系统下安装 JDK 及配置环境变量的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/install-jdk-win10.md) ”中，咱们已经演示了具体的操作过程了，以 Win10 为例，Win7 同理。接下来，点击“ Project SDK ”后面的“ New ”进行 JDK 的设置：
 
 ![3](http://img.blog.csdn.net/20170316100005298?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
