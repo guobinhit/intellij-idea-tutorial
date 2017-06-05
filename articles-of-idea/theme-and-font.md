@@ -1,6 +1,6 @@
 # 设置 IntelliJ IDEA 主题和字体的方法
 
-# 1 前言
+## 1 前言
 
 在博文“ [IntelliJ IDEA 之 HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/hello-world.md) ”中，咱们已经用 IntelliJ IDEA 创建了第一个 Java 项目 HelloWorld，如下图所示：
 
@@ -8,9 +8,9 @@
 
 观察上图，大家有没有发现一些问题，例如，整个界面的字体是不是都太小了一点啊？不知道大家感受如何，反正博主看到这么小的字体，当真是头晕眼花啊！因此，接下来，就让咱们一起尝试着把 IntelliJ IDEA 的主题和字体都重新设置一遍，看看到底什么样的模式咱们看着最舒服。
 
-# 2 主题修改
+## 2 主题修改
 
-## 2.1 界面主题修改
+### 2.1 界面主题修改
 
 ![2](http://img.blog.csdn.net/20170318222625187?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
@@ -27,7 +27,7 @@
 
 如上图所示，这是咱们选择“ Windows ”主题、点击“ Apply ”之后的效果，为纯白色主题。
 
-## 2.2 代码编辑区主题修改
+### 2.2 代码编辑区主题修改
 
 ![5](http://img.blog.csdn.net/20170319131122161?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
@@ -42,9 +42,9 @@
 
 通过以上的演示，咱们已经知道了，无论是界面还是编辑区的主题都是可以修改的，具体如何修改，这就看咱们的心情啦！对于博主来说，比较喜欢 “ Darcula ”主题，因此在接下来的内容中，咱们都在“ Darcula ”主题主题下进行演示。
 
-# 3 字体修改
+## 3 字体修改
 
-## 3.1 界面主题字体修改
+### 3.1 界面主题字体修改
 
 ![7](http://img.blog.csdn.net/20170319132854938?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
@@ -59,7 +59,7 @@
 
 在这里，有一点需要注意，那就是：**有的字体是包含中文的，有的字体则是不包含中文的**。一般情况下，使用英文的国家是不需要额外担心乱码问题的，但是咱们需要啊！如果咱们选择的字体不包含中文的话，很多位置上可能会出现类似于 口口口口口 这样的乱码问题。例如，`Courier New`和`Monaco`就是纯英文字体，而`Microsoft YaHei`就是包含中文的字体。
 
-## 3.2 代码编辑区字体修改
+### 3.2 代码编辑区字体修改
 
 ![9](http://img.blog.csdn.net/20170319140153110?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
@@ -76,7 +76,7 @@
 
 如上图所示，这是咱们选择`Size`为 16、点击“ Apply ”之后的效果，显然编辑区主题的字体明显都变大了很多。
 
-## 3.3 控制台输出字体修改
+### 3.3 控制台输出字体修改
 
 ![11](http://img.blog.csdn.net/20170319142542486?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
