@@ -1,4 +1,4 @@
-# IntelliJ IDEA 中文教程
+# 史上最简单的 IntelliJ IDEA 教程
 
 ## 前言
 
@@ -21,7 +21,13 @@
 
 第 7 篇：[修改 IntelliJ IDEA 模板注释中的 user 内容](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/modify-user-template.md)
 
-第 8 篇：
+第 8 篇：[IntelliJ IDEA 常见文件类型的图标介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/idea-icon.md)
+
+第 9 篇：[IntelliJ IDEA 缓存和索引的介绍及清理方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/index-and-cache.md)
+
+第 10 篇：[IntelliJ IDEA 编译方式介绍及编译器的设置和选择](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/compile-method.md)
+
+第 N 篇：XXXXXX
 
 ## 小技巧
 
