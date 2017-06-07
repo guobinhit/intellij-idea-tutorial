@@ -2,12 +2,12 @@
 
 首先，咱们回顾一下前两篇关于 IntelliJ IDEA 的博文的内容：
 
- - 在“[在 Windows 系统下安装 IntelliJ IDEA  的方法](http://blog.csdn.net/qq_35246620/article/details/61200815)”中，咱们知道了在 Windows 系统下如何下载并安装 IntelliJ IDEA 的方法；
- - 在“[首次运行 IntelliJ IDEA  示例](http://blog.csdn.net/qq_35246620/article/details/61620389)”中，咱们体验了首次运行 IntelliJ IDEA 的向导功能，并完成了初步的配置。
+ - 在“[在 Windows 系统下安装 IntelliJ IDEA  的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/install-intellij-idea-on-windows.md)”中，咱们知道了在 Windows 系统下如何下载并安装 IntelliJ IDEA 的方法；
+ - 在“[首次运行 IntelliJ IDEA  示例](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/first-run-idea.md)”中，咱们体验了首次运行 IntelliJ IDEA 的向导功能，并完成了初步的配置。
 
 在本篇博文中，咱们主要讲解一下 IntelliJ IDEA 安装目录中的一些核心文件的功能及用法：
 
-![1](http://img.blog.csdn.net/20170313142435214?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![1](http://img.blog.csdn.net/20170313142435214)
 
 如上图所示，咱们定位到了 IntelliJ IDEA 安装目录的`bin`目录下，`bin`是 binary 的缩写，代表的意思是二进制，因此`bin`目录就是用来存放二进制文件的。在这里，咱们主要了解上图中被红色方框圈出来的五个文件：
 
@@ -19,7 +19,7 @@
 
 接下来，咱们详细了解上述配置文件的作用：
 
-![2](http://img.blog.csdn.net/20170313143110738?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![2](http://img.blog.csdn.net/20170313143110738)
 
 如上图所示，咱们打开了`idea64.exe.vmoptions`配置文件，如果咱们的电脑是 32 位系统，则应该打开`idea.exe.vmoptions`配置文件，但是由于 32 位系统内存一般都是 2G 左右，也没有多大空间可以调整，所以一般不需要修改。修改 JVM 配置文件的原则就是根据咱们机器的内存情况来判断，个人建议 8G 以下的机器或是静态页面开发者无需修改，如果咱们要开发大型的 Java 项目或是 Android 项目，并且内存大于 8G，建议进行修改，而且经常修改的也就是下面 4 个参数。在此处，咱们以 16G 内存的机器为例：
 
@@ -31,7 +31,7 @@
 
 在这里，咱们只是举个修改示例，由于每台机器的配置不一样，因此每台机器的最佳的配置参数也是不一样的，最好的调整方式是根据 JConsole 这类工具进行观察后个性化调整。
 
-![3](http://img.blog.csdn.net/20170313144958077?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUyNDY2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![3](http://img.blog.csdn.net/20170313144958077)
 
 如上图所示，咱们打开了`idea.properties`配置文件，其没有 32 位和 64 位之分，修改的原则主要是根据个人对 IntelliJ IDEA 的个性化配置情况来分析，经常修改的是下面 4 个参数：
 
