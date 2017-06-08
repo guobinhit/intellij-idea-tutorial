@@ -27,6 +27,14 @@
 
 第 10 篇：[IntelliJ IDEA 编译方式介绍及编译器的设置和选择](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/compile-method.md)
 
+第 11 篇：[IntelliJ IDEA 中 Project 和 Module 的概念及区别](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/project-module.md)
+
+第 12 篇：[IntelliJ IDEA 中的版本控制介绍（上）](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/version-control-one.md)
+
+第 13 篇：[IntelliJ IDEA 中的版本控制介绍（中）](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/version-control-two.md)
+
+第 14 篇：IntelliJ IDEA 中的版本控制介绍（下）
+
 第 N 篇：XXXXXX
 
 ## 小技巧
