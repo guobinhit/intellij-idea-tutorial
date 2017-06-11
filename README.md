@@ -39,9 +39,11 @@
 
 ## 小技巧
 
-第 1 篇：XXX
+第 1 篇：[详述 IntelliJ IDEA 中恢复代码的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/recovery-code.md)
 
-第 2 篇：XXX
+第 2 篇：[详述 IntelliJ IDEA 中恢复代码的方法「进阶篇」](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/recovery-code-too.md)
+
+第 3 篇：[IntelliJ IDEA 控制台输出中文乱码问题的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/solve-garbled-questions.md)
 
 ## 致谢
 
