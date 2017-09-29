@@ -33,7 +33,7 @@
 
 第 13 篇：[IntelliJ IDEA 中的版本控制介绍（中）](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/version-control-two.md)
 
-第 14 篇：IntelliJ IDEA 中的版本控制介绍（下）
+第 14 篇：[IntelliJ IDEA 中的版本控制介绍（下）](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/version-control-three.md)
 
 第 N 篇：XXXXXX
 
