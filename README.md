@@ -9,7 +9,10 @@
 
 ## 目录
 
-第 1 篇：[在 Windows 系统下安装 IntelliJ IDEA 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/install-intellij-idea-on-windows.md)
+第 1 篇：安装 IDE 的方法
+
+- [在 Windows 系统下安装 IntelliJ IDEA 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/install-intellij-idea-on-windows.md)
+- [在 Mac 系统下安装 PyCharm 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/pycharm.md)
 
 第 2 篇：[首次运行 IntelliJ IDEA 示例](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/first-run-idea.md)
 
