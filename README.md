@@ -60,6 +60,8 @@
 
 第 8 篇：[详述 IntelliJ IDEA 设置 Sublime 代码颜色的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/code-color.md)
 
+第 N 篇：[Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
+
 ## 致谢
 
 　　作为一个初学者，刚接触 IntelliJ IDEA 的时候，就有幸阅读了 [@Judas.n](https://github.com/judasn) 写的关于 IntelliJ IDEA 的教程，也获益良多。但是随着自己接触的越来越多，却发现 Judas.n 写的教程与最新版本的 IntelliJ IDEA 有些出入，因此决定自己重新写一份关于 IntelliJ IDEA 的教程，这也是此系列教程的来源。在此感谢 Judas.n 写的教程对我的启发，本教程也对 Judas.n 写的教程多有借鉴，下面附上其 GitHub 地址，欢迎感兴趣的童鞋移步到 Judas.n 的教程观摩学习。
