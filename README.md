@@ -44,19 +44,21 @@
 
 ## 小技巧
 
-第 1 篇：[详述 IntelliJ IDEA 中恢复代码的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/recovery-code.md)
+第 1 篇：[IntelliJ IDEA 常用快捷键 之 Mac 版](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/keymap-mac.md)
 
-第 2 篇：[详述 IntelliJ IDEA 中恢复代码的方法「进阶篇」](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/recovery-code-too.md)
+第 2 篇：[详述 IntelliJ IDEA 中恢复代码的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/recovery-code.md)
 
-第 3 篇：[IntelliJ IDEA 控制台输出中文乱码问题的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/solve-garbled-questions.md)
+第 3 篇：[详述 IntelliJ IDEA 中恢复代码的方法「进阶篇」](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/recovery-code-too.md)
 
-第 4 篇：[详述 IntelliJ IDEA 中自动生成 serialVersionUID 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/serialVersionUID.md)
+第 4 篇：[IntelliJ IDEA 控制台输出中文乱码问题的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/solve-garbled-questions.md)
 
-第 5 篇：[详述 IntelliJ IDEA 提交代码前的 Code Analysis 机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/code-analysis.md)
+第 5 篇：[详述 IntelliJ IDEA 中自动生成 serialVersionUID 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/serialVersionUID.md)
 
-第 6 篇：[关于 IntelliJ IDEA 中 Schedule for Addition 的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/schedule.md)
+第 6 篇：[详述 IntelliJ IDEA 提交代码前的 Code Analysis 机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/code-analysis.md)
 
-第 7 篇：[详述 IntelliJ IDEA 设置 Sublime 代码颜色的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/code-color.md)
+第 7 篇：[关于 IntelliJ IDEA 中 Schedule for Addition 的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/schedule.md)
+
+第 8 篇：[详述 IntelliJ IDEA 设置 Sublime 代码颜色的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/code-color.md)
 
 ## 致谢
 
