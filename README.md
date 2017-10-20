@@ -34,7 +34,9 @@
 
 第 11 篇：[IntelliJ IDEA 中 Project 和 Module 的概念及区别](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/project-module.md)
 
-第 12 篇：[IntelliJ IDEA 中的版本控制机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/version-control-one.md)
+第 12 篇：[详述 IntelliJ IDEA 中的版本控制机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/version-control-one.md)
+
+第 13 篇：[详述 IntelliJ IDEA 插件的安装及使用方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/plugins.md)
 
 第 N 篇：XXXXXX
 
