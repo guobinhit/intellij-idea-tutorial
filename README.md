@@ -9,54 +9,54 @@
 
 ## 目录
 
-第 1 篇：安装 IDE 的方法
+- 第 1 篇：安装 IDE 的方法
 
-- [在 Windows 系统下安装 IntelliJ IDEA 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/install-intellij-idea-on-windows.md)
-- [在 Mac 系统下安装 PyCharm 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/pycharm.md)
+  - [在 Windows 系统下安装 IntelliJ IDEA 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/install-intellij-idea-on-windows.md)
+  - [在 Mac 系统下安装 PyCharm 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/pycharm.md)
 
-第 2 篇：[首次运行 IntelliJ IDEA 示例](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/first-run-idea.md)
+- 第 2 篇：[首次运行 IntelliJ IDEA 示例](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/first-run-idea.md)
 
-第 3 篇：[IntelliJ IDEA 安装目录的核心文件讲解](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/core-file-talk.md)
+- 第 3 篇：[IntelliJ IDEA 安装目录的核心文件讲解](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/core-file-talk.md)
 
-第 4 篇：[详述 IntelliJ IDEA 的使用界面](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/use-face.md)
+- 第 4 篇：[详述 IntelliJ IDEA 的使用界面](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/use-face.md)
 
-第 5 篇：[IntelliJ IDEA 之 HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/hello-world.md)
+- 第 5 篇：[IntelliJ IDEA 之 HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/hello-world.md)
 
-第 6 篇：[设置 IntelliJ IDEA 主题和字体的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/theme-and-font.md)
+- 第 6 篇：[设置 IntelliJ IDEA 主题和字体的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/theme-and-font.md)
 
-第 7 篇：[修改 IntelliJ IDEA 模板注释中的 user 内容](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/modify-user-template.md)
+- 第 7 篇：[修改 IntelliJ IDEA 模板注释中的 user 内容](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/modify-user-template.md)
 
-第 8 篇：[IntelliJ IDEA 常见文件类型的图标介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/idea-icon.md)
+- 第 8 篇：[IntelliJ IDEA 常见文件类型的图标介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/idea-icon.md)
 
-第 9 篇：[IntelliJ IDEA 缓存和索引的介绍及清理方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/index-and-cache.md)
+- 第 9 篇：[IntelliJ IDEA 缓存和索引的介绍及清理方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/index-and-cache.md)
 
-第 10 篇：[IntelliJ IDEA 编译方式介绍及编译器的设置和选择](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/compile-method.md)
+- 第 10 篇：[IntelliJ IDEA 编译方式介绍及编译器的设置和选择](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/compile-method.md)
 
-第 11 篇：[IntelliJ IDEA 中 Project 和 Module 的概念及区别](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/project-module.md)
+- 第 11 篇：[IntelliJ IDEA 中 Project 和 Module 的概念及区别](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/project-module.md)
 
-第 12 篇：[详述 IntelliJ IDEA 中的版本控制机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/version-control-one.md)
+- 第 12 篇：[详述 IntelliJ IDEA 中的版本控制机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/version-control-one.md)
 
-第 13 篇：[详述 IntelliJ IDEA 插件的安装及使用方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/plugins.md)
+- 第 13 篇：[详述 IntelliJ IDEA 插件的安装及使用方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/plugins.md)
 
-第 N 篇：XXXXXX
+- 第 N 篇：XXXXXX
 
 ## 小技巧
 
-第 1 篇：[IntelliJ IDEA 常用快捷键 之 Mac 版](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/keymap-mac.md)
+- 第 1 篇：[IntelliJ IDEA 常用快捷键 之 Mac 版](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/keymap-mac.md)
 
-第 2 篇：[详述 IntelliJ IDEA 中恢复代码的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/recovery-code.md)
+- 第 2 篇：[详述 IntelliJ IDEA 中恢复代码的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/recovery-code.md)
 
-第 3 篇：[IntelliJ IDEA 控制台输出中文乱码问题的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/solve-garbled-questions.md)
+- 第 3 篇：[IntelliJ IDEA 控制台输出中文乱码问题的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/solve-garbled-questions.md)
 
-第 4 篇：[详述 IntelliJ IDEA 中自动生成 serialVersionUID 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/serialVersionUID.md)
+- 第 4 篇：[详述 IntelliJ IDEA 中自动生成 serialVersionUID 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/serialVersionUID.md)
 
-第 5 篇：[详述 IntelliJ IDEA 提交代码前的 Code Analysis 机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/code-analysis.md)
+- 第 5 篇：[详述 IntelliJ IDEA 提交代码前的 Code Analysis 机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/code-analysis.md)
 
-第 6 篇：[关于 IntelliJ IDEA 中 Schedule for Addition 的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/schedule.md)
+- 第 6 篇：[关于 IntelliJ IDEA 中 Schedule for Addition 的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/schedule.md)
 
-第 7 篇：[详述 IntelliJ IDEA 设置 Sublime 代码颜色的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/code-color.md)
+- 第 7 篇：[详述 IntelliJ IDEA 设置 Sublime 代码颜色的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/code-color.md)
 
-第 N 篇：[Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
+- 第 N 篇：[Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
 
 ## 致谢
 
