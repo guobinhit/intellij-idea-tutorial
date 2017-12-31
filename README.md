@@ -58,6 +58,8 @@
 
 - 第 8 篇：[详述 IntelliJ IDEA 远程调试 Tomcat 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/remote.md)
 
+- 第 9 篇：[利用 IntelliJ IDEA 进行代码对比的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/compare-code.md)
+
 - 第 N 篇：[Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
 
 ## 致谢
