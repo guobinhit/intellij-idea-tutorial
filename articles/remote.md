@@ -12,7 +12,7 @@
 
 如上图所示，我们进入了`Run/Debug Configurations`界面，然后点击左上角的`+`，选择`Remote`：
 
-![3](http://img.blog.csdn.net/20171111164224252)
+![remote](http://img.blog.csdn.net/20180103164200755)
 
 - **标注 1**：运行远程 JVM 的命令行参数；
 - **标注 2**：传输方式，默认为`Socket`；
@@ -35,17 +35,17 @@
 
 然后，复制 **标注 1**，即 IntelliJ IDEA 自动生产的命令行参数，然后导入到 Tomcat 的配置文件中。以 Linux 系统为例，导入语句为：
 
-- `export JAVA_OPTS='-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005'`
+- `export JAVA_OPTS='-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=8001'`
 
 如果是 Windows 系统，则导入语句为：
 
-- `set JAVA_OPTS=-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005`
+- `set JAVA_OPTS=-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=8001`
 
 两者的区别在于导入语句的关键字不同以及有无引号，Linux 系统的导入关键字为`export`，Windows 为`set`；Linux 的导入值需要用单引号`''`括起来，而 Windows 则不用。
 
 接下来，修改 Tomcat 的 bin 目录下的`catalina.sh`文件（如果是 Windows 系统则修改`catalina.bat`文件），将上述的导入语句添加到此文件中即可：
 
-![4](http://img.blog.csdn.net/20171111173536736)
+![cata](http://img.blog.csdn.net/20180103164534540)
 
 至此，IntelliJ IDEA 远程调试 Tomcat 的配置已经完成了，调试的后续步骤按正常的调试技巧进行就可以啦！
 
