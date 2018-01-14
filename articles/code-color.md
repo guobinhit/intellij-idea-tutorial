@@ -2,7 +2,7 @@
 
 相信很多同学在使用 Sublime 时，看到那些五颜六色的代码感觉爽的不行，而反过来，再来看 IntelliJ IDEA 默认的代码颜色就感觉有些不爽啦！但是实际上，我们是可以通过「导入设置」的方式，来设置 IntelliJ IDEA 代码颜色的。在本篇博文中，我们就给出在 IntelliJ IDEA 中设置 Sublime 代码颜色的方法。
 
-首先，下载「[SublimeMonoKai](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/resources/idea_theme/SublimeMonoKai.jar)」jar 包：
+首先，下载「[SublimeMonoKai](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/resources/idea-theme/SublimeMonoKai.jar)」jar 包：
 
 ![download](http://img.blog.csdn.net/20170927100003271)
 
