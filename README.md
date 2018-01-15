@@ -60,6 +60,8 @@
 
 - 第 9 篇：[利用 IntelliJ IDEA 进行代码对比的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/compare-code.md)
 
+- 第 10 篇：[设置 IntelliJ IDEA 彩色代码主题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/color-code.md)
+
 - 第 N 篇：[Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
 
 ## 致谢
