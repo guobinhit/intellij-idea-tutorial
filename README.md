@@ -62,7 +62,7 @@
 
 - 第 10 篇：[设置 IntelliJ IDEA 彩色代码主题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/color-code.md)
 
-- 第 N 篇：[Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
+- 第 11 篇：[详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://blog.csdn.net/qq_35246620/article/details/79753210)
 
 ## 致谢
 
