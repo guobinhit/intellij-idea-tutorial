@@ -62,7 +62,7 @@
 
 - 第 10 篇：[设置 IntelliJ IDEA 彩色代码主题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/color-code.md)
 
-- 第 11 篇：[详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://blog.csdn.net/qq_35246620/article/details/79753210)
+- 第 11 篇：[详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/conflict-jar.md)
 
 ## 致谢
 
