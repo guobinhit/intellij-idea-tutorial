@@ -2,9 +2,9 @@
 
 首先，进入官网下载 IntelliJ IDEA 可执行文件：https://www.jetbrains.com/idea/
 
-![1](http://img.blog.csdn.net/20170310164940754)
+![intellij-idea-web](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/windows-install-idea/intellij-idea-web.png)
 
-如上图所示，进入“Download IntelliJ IDEA”页面，我们可以看到 IntelliJ IDEA 分为两个版本，分别为：
+如上图所示，进入 Download IntelliJ IDEA 页面，我们可以看到 IntelliJ IDEA 分为两个版本，分别为：
 
  - 旗舰版（Ultimate）
  - 社区版（Community）
@@ -17,27 +17,27 @@
 
 言归正传，点击`Download`之后，将会进入如下页面：
 
-![2](http://img.blog.csdn.net/20170310170422591)
+![downloading-intellij-idea](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/windows-install-idea/downloading-intellij-idea.png)
 
 正常情况下，网页会自动弹出下载提示框的，如下图所示：
 
-![3](http://img.blog.csdn.net/20170310170514873)
+![download-process](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/windows-install-idea/download-process.png)
 
 然后直接`下载`就可以啦！但是还有一种不正常的情况，那就是网页没有自动弹出下载提示框，这也不用着急，我们手动点击`direct link`，同样可以弹出下载提示框，然后下载即可。下载完成后，双击可执行文件，以博主为例，双击下载的`ideaIU-2016.3.5`可执行文件，将会进入 IntelliJ IDEA 的安装页面，如下图所示：
 
-![4](http://img.blog.csdn.net/20170310171302817)
+![intellij-idea-setup](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/windows-install-idea/intellij-idea-setup.png)
 
 在这一步，毫无疑问，点击`Next`，进入如下界面：
 
-![5](http://img.blog.csdn.net/20170310171448664)
+![intellig-idea-choose-location](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/windows-install-idea/intellig-idea-choose-location.png)
 
 在这里，需要说明一下，IntelliJ IDEA 默认是安装到 C 盘的`Program Files (x86)`目录下的，如果我们想安装到 C 盘的该目录下，点击`Next`即可；如果想修改 IntelliJ IDEA 的安装目录，则需要点击`Browse`进行修改，如博主修改 IntelliJ IDEA 的安装目录后，如下图所示：
 
-![6](http://img.blog.csdn.net/20170310171905279)
+![intellig-idea-choose-location-d](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/windows-install-idea/intellig-idea-choose-location-d.png)
 
 如上图所示，博主将 IntelliJ IDEA 安装到了 D 盘的`Program Files (x86)`目录下，点击`Next`，进入如下界面：
 
-![7](http://img.blog.csdn.net/20170310172117210)
+![intellig-idea-choose-location-next](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/windows-install-idea/intellig-idea-choose-location-next.png)
 
 如上面所示，博主标记了两个记号，接下来，分别讲述其作用：
 
@@ -46,11 +46,11 @@
 
 接下来，点击`Next`，进入如下界面：
 
-![8](http://img.blog.csdn.net/20170310173108763)
+![intellig-idea-choose-menu](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/windows-install-idea/intellig-idea-choose-menu.png)
 
 在这里，选择默认的`JetBrains`文件夹就可以，点击`Install`，进行安装：
 
-![9](http://img.blog.csdn.net/20170310173450530)
+![intellig-idea-install-over](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/windows-install-idea/intellig-idea-install-over.png)
 
 截止到此处，我们已经在 Windows 系统下将 IntelliJ IDEA 安装成功啦！
 
