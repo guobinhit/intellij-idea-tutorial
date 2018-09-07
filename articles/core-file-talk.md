@@ -2,8 +2,8 @@
 
 首先，我们回顾一下前两篇关于 IntelliJ IDEA 的博文的内容：
 
- - 在「[在 Windows 系统下安装 IntelliJ IDEA  的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/install-intellij-idea-on-windows.md)」中，我们知道了在 Windows 系统下如何下载并安装 IntelliJ IDEA 的方法；
- - 在「[首次运行 IntelliJ IDEA  示例](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles-of-idea/first-run-idea.md)」中，我们体验了首次运行 IntelliJ IDEA 的向导功能，并完成了初步的配置。
+ - 在「[在 Windows 系统下安装 IntelliJ IDEA  的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/install-intellij-idea-on-windows.md)」中，我们知道了在 Windows 系统下如何下载并安装 IntelliJ IDEA 的方法；
+ - 在「[首次运行 IntelliJ IDEA  示例](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/first-run-idea.md)」中，我们体验了首次运行 IntelliJ IDEA 的向导功能，并完成了初步的配置。
 
 在本篇博文中，我们主要讲解一下 IntelliJ IDEA 安装目录中的一些核心文件的功能及用法：
 
