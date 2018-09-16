@@ -24,7 +24,7 @@
 
 - 第 6 篇：[设置 IntelliJ IDEA 主题和字体的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/theme-and-font.md)
 
-- 第 7 篇：[修改 IntelliJ IDEA 模板注释中的 user 内容](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/modify-user-template.md)
+- 第 7 篇：[修改 IntelliJ IDEA 模板注释中内容](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/modify-user-template.md)
 
 - 第 8 篇：[常见文件类型的图标介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/idea-icon.md)
 

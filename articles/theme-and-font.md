@@ -2,7 +2,7 @@
 
 ## 1 前言
 
-在博文「[IntelliJ IDEA 之 HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/hello-world.md)」中，我们已经用 IntelliJ IDEA 创建了第一个 Java 项目 HelloWorld，如下图所示：
+在博文「[HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/hello-world.md)」中，我们已经用 IntelliJ IDEA 创建了第一个 Java 项目 HelloWorld，如下图所示：
 
 ![default-theme](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/theme-and-font/default-theme.png)
 
@@ -54,7 +54,7 @@
 
 ![font-2](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/theme-and-font/font-2.png)
 
-如上图所示，这是在选择`Size`为`14`、点击`Apply`之后的效果，显然界面主题的字体明显都变大了很多。在这里，有一点需要注意，那就是：**有的字体是包含中文的，有的字体则是不包含中文的。**一般情况下，使用英文的国家是不需要额外担心乱码问题的，但是我们需要啊！如果我们选择的字体不包含中文的话，很多位置上可能会出现类似于 口口口口口 这样的乱码问题。例如，`Courier New`和`Monaco`就是纯英文字体，而`Microsoft YaHei`就是包含中文的字体。
+如上图所示，这是在选择`Size`为`14`、点击`Apply`之后的效果，显然界面主题的字体明显都变大了很多。在这里，有一点需要注意，那就是：**有的字体是包含中文的，有的字体则是不包含中文的**。一般情况下，使用英文的国家是不需要额外担心乱码问题的，但是我们需要啊！如果我们选择的字体不包含中文的话，很多位置上可能会出现类似于 口口口口口 这样的乱码问题。例如，`Courier New`和`Monaco`就是纯英文字体，而`Microsoft YaHei`就是包含中文的字体。
 
 ### 3.2 代码编辑区字体修改
 
