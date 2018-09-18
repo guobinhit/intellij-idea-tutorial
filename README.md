@@ -34,11 +34,11 @@
 
 - 第 11 篇：[IntelliJ IDEA 中 Project 和 Module 的概念及区别](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/project-module.md)
 
-- 第 12 篇：[详述 IntelliJ IDEA 中的版本控制机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/version-control-one.md)
+- 第 12 篇：[详述 IntelliJ IDEA 中的版本控制机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/version-control.md)
 
 - 第 13 篇：[详述 IntelliJ IDEA 插件的安装及使用方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/plugins.md)
 
-- 第 14 篇：[详述 IntelliJ IDEA 创建 Maven 项目及设置 java 源目录的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/maven.md)
+- 第 14 篇：[详述 IntelliJ IDEA 创建 Maven 项目及设置 java 源目录的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/maven-project.md)
 
 - 第 15 篇：[IntelliJ IDEA 中的 Maven 项目初体验及搭建 Spring MVC 框架](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/run-maven-springmvc.md)
 
