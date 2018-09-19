@@ -9,7 +9,7 @@
  - Mac：`IntelliJ IDEA` -> `Preferences` -> `Plugins`;
  - Windows：`File` -> `Settings` -> `Plugins`.
 
-![plugins](http://img.blog.csdn.net/20171019200810873)
+![preferences-plugins](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/plugins/preferences-plugins.png)
 
 - **标注 1**：显示 IntelliJ IDEA 的插件分类，
   - `All plugins`：显示 IntelliJ IDEA 支持的所有插件；
@@ -24,15 +24,15 @@
 
 如上图所示，显示了 IntelliJ IDEA 对插件的良好支持。以阿里巴巴最近新推出的「阿里巴巴代码规范检查插件」为例，在搜索区输入`Alibaba`，就会显示出相近名称的插件（如果显示`No Plugins found`，则点击`Serach in repositories`进行仓库搜索），然后点击`Install`，即可安装此插件。在此，需要注意的是：**插件安装成功后，需要重新启动 IntelliJ IDEA 使插件生效**。
 
-![3](http://img.blog.csdn.net/20171019212406019)
+![alibaba-java-coding-guidelines](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/plugins/alibaba-java-coding-guidelines.png)
 
 此外，当我们创建一个 IntelliJ IDEA 当前配置并不支持的文件格式时，IntelliJ IDEA 会自动识别此文件，并提示我们下载对应的插件，对其进行支持。如下图所示，我们创建了一个名为`MarkdownPlugins.md`的 Markdown 格式的文件，但当前我们的 IntelliJ IDEA 并没有支持 Markdown 的插件，这时 IntelliJ IDEA 就会自动提示我们安装 Markdown 插件：
 
-![2](http://img.blog.csdn.net/20171019202812269)
+![markdown-plugins](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/plugins/markdown-plugins.png)
 
 如上图所示，当我们点击`Install plugins`之后，选择对应的插件下载并安装（自动），然后重新启动 IntelliJ IDEA，并输入 Markdown 格式的内容，进行测试：
 
-![7](http://img.blog.csdn.net/20171019210015108)
+![test-markdown-plugins](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/plugins/test-markdown-plugins.png)
 
 如上图所示，显然 Markdown 插件安装成功，IntelliJ IDEA 已经能够识别 Markdown 的语法啦！
 
