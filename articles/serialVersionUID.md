@@ -20,29 +20,29 @@
 
 **第 1 步：安装`GenerateSerialVersionUID`插件**
 
-![1](http://img.blog.csdn.net/20170829200523647)
+![preferences](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/serialVersionUID/preferences.png)
 
 如上图所示，点击`Preferences`，进入如下界面：
 
-![2](http://img.blog.csdn.net/20170829200539634)
+![plugins](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/serialVersionUID/plugins.png)
 
 在这里，选择`Plugins`，并搜索`GenerateSerialVersionUID`，如果没有发现此插件，则可以点击`Search in repositories`进行搜索：
 
-![3](http://img.blog.csdn.net/20170829200554430)
+![browse-repositories](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/serialVersionUID/browse-repositories.png)
 
 如上图所示，点击`install`，即可安装此插件。
 
 **第 2 步：设置`Inspections`功能**
 
-![4](http://img.blog.csdn.net/20170829201102148)
+![inspections](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/serialVersionUID/inspections.png)
 
 如上图所示，进入`Default Settings`，在`Inspections`设置页面中，勾选`Serializable class without 'serialVersionUID'`，并且还可以在`Severity`中设置提示级别，如`Warning`、`Error`等，默认为`Warning`，也建议选择`Warning`级别的提示。
 
-![5](http://img.blog.csdn.net/20170829201203932)
+![generate-uid](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/serialVersionUID/generate-uid.png)
 
 如上图所示，创建一个类并实现`Serializable`接口，然后按`alt`+`Enter`键，即可收到提示，然后选择`SerialVersionUID`：
 
-![6](http://img.blog.csdn.net/20170829201122093)
+![test-generate-uid](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/serialVersionUID/test-generate-uid.png)
 
 如上图所示，显然我们已经利用 IntelliJ IDEA 中自动生成`serialVersionUID`啦！
 
