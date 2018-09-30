@@ -1,4 +1,4 @@
-# 设置 IntelliJ IDEA 彩色代码主题
+# 手把手教你设置 IntelliJ IDEA 彩色代码主题
 
 首先，给出一系列 IntelliJ IDEA 代码的彩色主题，供大家选择：
 

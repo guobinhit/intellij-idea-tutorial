@@ -57,15 +57,13 @@
 
 - 第 6 篇：[关于 IntelliJ IDEA 中 Schedule for Addition 的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/schedule.md)
 
-- 第 7 篇：[详述 IntelliJ IDEA 设置 Sublime 代码颜色的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/code-color.md)
+- 第 7 篇：[手把手教你设置 IntelliJ IDEA 彩色代码主题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/color-code.md)
 
 - 第 8 篇：[详述 IntelliJ IDEA 远程调试 Tomcat 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/remote.md)
 
 - 第 9 篇：[利用 IntelliJ IDEA 进行代码对比的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/compare-code.md)
 
-- 第 10 篇：[设置 IntelliJ IDEA 彩色代码主题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/color-code.md)
-
-- 第 11 篇：[详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/conflict-jar.md)
+- 第 10 篇：[详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/conflict-jar.md)
 
 ## 致谢
 
