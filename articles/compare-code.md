@@ -4,7 +4,7 @@ Sometimes，我们会有这样的需求，即：**想对比出两个不同版本
 
  - **第 1 种**：如果我们是从 SVN 检出的项目，并且想比较本地代码与从 SVN 检出时的代码相比都有那些区别，可以按如下步骤操作，
 
-![subversion](http://img.blog.csdn.net/20171230180849921)
+![show-history](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/compare-code/show-history.png)
 
 如上图所示，在代码编辑区，`右键`唤出功能菜单，然后选择`Subversion`，进而会展示出更多的可选项，例如：
 
@@ -18,15 +18,15 @@ Sometimes，我们会有这样的需求，即：**想对比出两个不同版本
 
 - **第 2 种**：比较本地两份代码的区别，可以按如下步骤操作，
 
-![SRC](http://img.blog.csdn.net/20171230181953282)
+![compare-with](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/compare-code/compare-with.png)
 
 首先，选中目标文件夹（图中选择`src`文件夹），`右键`唤出功能菜单，然后点击`Compare With`：
 
-![bijou](http://img.blog.csdn.net/20171230182318846)
+![local-project](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/compare-code/local-project.png)
 
 如上图所示，选中本地另一份想要与之对比的代码的相同目录，然后点击`Open`或者`打开`、`确定`按钮：
 
-![3](http://img.blog.csdn.net/20171230182703972)
+![show-diff](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/compare-code/show-diff.png)
 
 如上图所示，清晰明了的展示了两份代码的区别。
 

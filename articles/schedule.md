@@ -13,9 +13,7 @@
 
 ![schedule-newfile](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/schedule/schedule-newfile.png)
 
-如上图所示，当我们创建了一个名为`IdeaTest`的 Java 类的时候，IDEA 给出了同样的提示。当然，前提是我们并没有选择`Remember,don't ask again`，如果勾选了此内容，则不会再给出提示，并默认我们当时的选择。
-
-最后，我们尝试提交代码，测试 IDEA 的表现：
+如上图所示，当我们创建了一个名为`IdeaTest`的 Java 类的时候，IDEA 给出了同样的提示。当然，前提是我们并没有选择`Remember,don't ask again`，如果勾选了此内容，则不会再给出提示，并默认我们当时的选择。最后，我们尝试提交代码，测试 IDEA 的表现：
 
 ![commit-changes](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/schedule/commit-changes.png)
 
