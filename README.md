@@ -45,7 +45,10 @@
 
 ## 小技巧
 
-- 第 1 篇：[IntelliJ IDEA 常用快捷键 之 Mac 版](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/keymap-mac.md)
+- 第 1 篇：快捷键
+
+  - [Mac 版](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/keymap-mac.md)
+  - [Windows 版](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/keymap-windows.md)
 
 - 第 2 篇：[详述 IntelliJ IDEA 中恢复代码的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/recovery-code.md)
 
