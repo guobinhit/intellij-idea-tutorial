@@ -45,7 +45,7 @@
 
 ## 小技巧
 
-- 第 1 篇：快捷键
+- 第 1 篇：IntelliJ IDEA 快捷键
 
   - [Mac 版](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/keymap-mac.md)
   - [Windows 版](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/keymap-windows.md)
