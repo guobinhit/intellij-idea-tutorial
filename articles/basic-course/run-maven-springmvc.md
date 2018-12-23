@@ -1,6 +1,6 @@
 # IntelliJ IDEA 中的 Maven 项目初体验及搭建 Spring MVC 框架
 
-在「[详述 IntelliJ IDEA 创建 Maven 项目及设置 java 源目录的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/maven.md)」一文中，我们已经将 IntelliJ IDEA 中的 Maven 项目的框架搭建完成。接着上文，在本文中，我们更近一步，利用 Tomcat 运行我们的 Web 项目。
+在「[详述 IntelliJ IDEA 创建 Maven 项目及设置 java 源目录的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/maven.md)」一文中，我们已经将 IntelliJ IDEA 中的 Maven 项目的框架搭建完成。接着上文，在本文中，我们更近一步，利用 Tomcat 运行我们的 Web 项目。
 
 ![gitcode-project](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/run-maven-springmvc/gitcode-project.png)
 

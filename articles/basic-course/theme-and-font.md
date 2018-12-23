@@ -2,7 +2,7 @@
 
 ## 1 前言
 
-在博文「[HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/hello-world.md)」中，我们已经用 IntelliJ IDEA 创建了第一个 Java 项目 HelloWorld，如下图所示：
+在博文「[HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/hello-world.md)」中，我们已经用 IntelliJ IDEA 创建了第一个 Java 项目 HelloWorld，如下图所示：
 
 ![default-theme](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/theme-and-font/default-theme.png)
 

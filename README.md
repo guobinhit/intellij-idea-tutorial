@@ -32,6 +32,8 @@
   - [HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/hello-world.md)
 - 设置主题和字体
   - [设置 IntelliJ IDEA 主题和字体的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/theme-and-font.md)
+  - 模板注释
+  - [修改 IntelliJ IDEA 模板注释的内容](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/modify-user-template.md)
 - 常见图标介绍
   - [常见文件类型的图标介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/idea-icon.md)
 - 缓存及索引
@@ -56,14 +58,12 @@
 - 快捷键
   - [Mac](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/keymap-mac.md)
   - [Windows](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/keymap-windows.md)
-- 模板注释
-  - [修改 IntelliJ IDEA 模板注释的内容](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/modify-user-template.md)
 - 恢复代码
   - [详述 IntelliJ IDEA 中恢复代码的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/recovery-code.md)
 - 中文乱码问题
   - [IntelliJ IDEA 控制台输出中文乱码问题的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/solve-garbled-questions.md)
 - 序列化
-  - [详述 IntelliJ IDEA 中自动生成 serialVersionUID 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/practical-skills/articles/serialVersionUID.md)
+  - [详述 IntelliJ IDEA 中自动生成 serialVersionUID 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/serialVersionUID.md)
 - 代码审查
   - [详述 IntelliJ IDEA 提交代码前的 Code Analysis 机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/code-analysis.md)
 - 版本管理

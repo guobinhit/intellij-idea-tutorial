@@ -1,6 +1,6 @@
 # HelloWorld 项目创建及相关配置文件介绍
 
-在博文「[IntelliJ IDEA 的使用界面介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/use-face.md)」中，我们通过创建一个 Static Web 项目大致了解了 IntelliJ IDEA 的使用界面。接下来，趁着这个热乎劲，我们来创建第一个 Java 项目`HelloWorld`，进入如下界面：
+在博文「[IntelliJ IDEA 的使用界面介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/use-face.md)」中，我们通过创建一个 Static Web 项目大致了解了 IntelliJ IDEA 的使用界面。接下来，趁着这个热乎劲，我们来创建第一个 Java 项目`HelloWorld`，进入如下界面：
 
 ![welcome-to-idea](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/hello-world/welcome-to-idea.png)
 
