@@ -4,7 +4,9 @@
 
 　　IntelliJ IDEA（简称 IDEA），是 Java 语言开发的集成环境，IDEA 在业界被公认为最好的 Java 开发工具之一，尤其在智能代码助手、代码自动提示、重构、J2EE 支持、各类版本工具（Git、SVN、GitHub 等）、JUnit、CVS 整合、代码分析和创新的 GUI 设计等方面的功能都值得称道。至于 Eclipse 本人接触的不多，因此也无法比较，但殊途同归，无论选择什么集成开发环境，都是为了辅助咱们编程，所以可以说：**没有最好的工具，只有最适合自己的工具**。因此，撰写本系列文章的目的很简单，就是想把自己的经验整理记录下来，当然，如果能够在此基础上帮助大家快速入门并掌握 Intellij IDEA 那就再好不过啦！
   
-- **注：此教程使用的工具版本为 IntelliJ IDEA 2017(.1.5)**
+- **温馨提示**：此教程使用的工具为`IntelliJ IDEA 2017(.1.5)`版本
+- **官网地址**：http://www.jetbrains.com/idea/download
+- **免费注册码**：https://blog.csdn.net/qq_35246620/article/details/80522720
 
 
 ## 索引
