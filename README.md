@@ -32,7 +32,7 @@
   - [HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/hello-world.md)
 - 设置主题和字体
   - [设置 IntelliJ IDEA 主题和字体的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/theme-and-font.md)
-  - 模板注释
+- 模板注释
   - [修改 IntelliJ IDEA 模板注释的内容](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/modify-user-template.md)
 - 常见图标介绍
   - [常见文件类型的图标介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/idea-icon.md)
