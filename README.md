@@ -40,6 +40,8 @@
   - [缓存和索引的介绍及清理方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/index-and-cache.md)
 - 编译方式
   - [编译方式介绍及编译器的设置和选择](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/compile-method.md)
+- 代码调试
+  - [详述 IntelliJ IDEA 之 Debug 篇](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/debug-skills.md)
 - 多模块项目
   - [IntelliJ IDEA 中 Project 和 Module 的概念及区别](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/project-module.md)
 - 版本控制
