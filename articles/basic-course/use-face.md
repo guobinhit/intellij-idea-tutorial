@@ -2,7 +2,7 @@
 
 ![welcome-idea](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/use-face/welcome-idea.png)
 
-是否还记得在博文「[IntelliJ IDEA 安装目录的核心文件讲解](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/first-run-idea.md)」中，这张充满神秘色彩的图片呢？进入她，让我们一起感受她的魅力吧！
+是否还记得在博文「[IntelliJ IDEA 安装目录的核心文件讲解](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/first-run-idea.md)」中，这张充满神秘色彩的图片呢？进入她，让我们一起感受她的魅力吧！
 
 ![idea-begin](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/use-face/idea-begin.png)
 
