@@ -6,7 +6,7 @@
   
 - **温馨提示**：此教程使用的工具为`IntelliJ IDEA 2017(.1.5)`版本
 - **官网地址**：http://www.jetbrains.com/idea/download
-- **免费注册码**：https://blog.csdn.net/qq_35246620/article/details/80522720
+- **免费激活码**：https://guobinhit.blog.csdn.net/article/details/89040919
 
 
 ## 索引
