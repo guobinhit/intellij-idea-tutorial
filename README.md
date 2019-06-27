@@ -21,7 +21,7 @@
 
 - 安装 IDE 的方法
   - [基于 Windows 系统安装 IntelliJ IDEA 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/install-intellij-idea-on-windows.md)
-  - [基于 Mac 系统安装 PyCharm 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/pycharm.md)
+  - [基于 Mac 系统安装 PyCharm 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/install-pycharm-on-mac.md)
 - 初识 IDEA 的世界
   - [首次运行 IntelliJ IDEA 示例](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/first-run-idea.md)
 - 核心文件讲解

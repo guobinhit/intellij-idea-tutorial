@@ -2,7 +2,7 @@
 
 在「[详述 IntelliJ IDEA 创建 Maven 项目及设置 java 源目录的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/maven-project.md)」一文中，我们已经将 IntelliJ IDEA 中的 Maven 项目的框架搭建完成。接着上文，在本文中，我们更近一步，利用 Tomcat 运行我们的 Web 项目。
 
-![gitcode-project](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/run-maven-springmvc/gitcode-project.png)
+![gitcode-project](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/run-maven-springmvc/gitcode-project.png)
 
 如上图所示，我们进一步扩展了项目的结构，在`java`目录下新建了一系列的目录层级，并在`annotation`目录下建立一个名为`AnnotationController`的 Java 类，用于测试 Spring MVC 框架；在`WEB-INF`目录下，新建了一个`pages`目录，用于存放`jsp`页面，并新建了一个名为`springmvc-servlet.xml`的文件，用于书写 Spring MVC 框架的配置项。接下来，我们依次看看这些文件的内容：
 
@@ -159,25 +159,25 @@ public class AnnotationController {
 
 接下来，配置 Tomcat，运行 Web  项目：
 
-![configuration-tomcat](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/run-maven-springmvc/configuration-tomcat.png)
+![configuration-tomcat](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/run-maven-springmvc/configuration-tomcat.png)
 
-![configuration-tomcat-2](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/run-maven-springmvc/configuration-tomcat-2.png)
+![configuration-tomcat-2](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/run-maven-springmvc/configuration-tomcat-2.png)
 
 如上图所示，依次对 Tomcat 进行配置，完成后，运行项目：
 
-![run-project](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/run-maven-springmvc/run-project.png)
+![run-project](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/run-maven-springmvc/run-project.png)
 
 如上图所示，项目成功运行。在这里，很多同学可能会遇到如下错误：
 
-![http-status-500](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/run-maven-springmvc/http-status-500.png)
+![http-status-500](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/run-maven-springmvc/http-status-500.png)
 
 造成上述错误的原因是`jar`包冲突，一般是`servlet-api.jar`和`jsp-api.jar`这个两个`jar`包冲突导致的。至于为什么会出现`jar`包冲突，很有可能是在写`Controller`的时候，需要导入`javax.servlet.http.HttpServletRequest`，这时看到项目中竟然没有引入该`jar`，自然是顺手就在`pom.xml`中添加了该`jar`的依赖，好吧，冲突种子就在这里种下啦！实际上，在 Tomcat 的`lib`目录中，已经包含上述两个`jar`包：
 
-![tomcat-lib-ls](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/run-maven-springmvc/tomcat-lib-ls.png)
+![tomcat-lib-ls](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/run-maven-springmvc/tomcat-lib-ls.png)
 
 **解决方法**：如果是 Maven 项目，就删除`pom.xml`文件中对`servlet-api.jar`和`jsp-api.jar`的依赖；如果是非 Maven 项目，就手动排除这两个`jar`包。然后，进入 IntelliJ IDEA  的`Project Structure -> Modules -> Dependencies`配置页：
 
-![modules-dependencies](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/run-maven-springmvc/modules-dependencies.png)
+![modules-dependencies](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/run-maven-springmvc/modules-dependencies.png)
 
 如上图所示，检查 Tomcat 是否引入；如果引入，则检查是否勾选 Tomcat 前的`Export`选项，实际上不勾选这个选项是正确的，勾选`Export`之后，会在项目启动后，将该 Tomcat 导出到本地仓库，从而导致两份 Tomcat，再次产生`jar`包冲突。除此之外，还要检查 JDK、Tomcat 以及 Maven 的版本，以防止版本不兼容的问题，例如：
 

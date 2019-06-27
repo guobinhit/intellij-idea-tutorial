@@ -4,11 +4,11 @@
 
 IntelliJ IDEA 的缓存和索引主要是用来加快文件查询的速度，从而提高各种查找、代码提示等操作的速度，因此索引对 IntelliJ IDEA 的高效性来说，具有至关重要的作用。但是，IntelliJ IDEA 的缓存和索引并不一定总是起到积极的作用，有的时候，反而会因为缓存和索引的损坏，例如突然断电、蓝屏引起的强制关机等等，造成 IntelliJ IDEA 出现一些莫名其妙的问题，例如项目打不开、个性化设置还原等等。现在，大家不用愁了，接下来，就让我们一起看一看如何清理缓存和索引：
 
-![file-caches-restart](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/index-and-cache/file-caches-restart.png)
+![file-caches-restart](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/index-and-cache/file-caches-restart.png)
 
 如上图所示，`File`下的`Invalidate Caches / Restart`就是清理缓存和索引的入口，表示“**无效缓存或者重新启动**”，点击进入如下界面：
 
-![warning](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/index-and-cache/warning.png)
+![warning](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/index-and-cache/warning.png)
 
  - **标注 1**：无效并重启；
  - **标注 2**：无效缓存；
