@@ -2,35 +2,35 @@
 
 首先，进入 PyCharm 的官网，[PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/).
 
-![pycharm-web](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/install-pycharm-on-mac/pycharm-web.png)
+![pycharm-web](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/pycharm-web.png)
 
 如上图所示，直接点击`DOWNLOAD NOW`，立即下载：
 
-![download-pycharm](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/install-pycharm-on-mac/download-pycharm.png)
+![download-pycharm](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/download-pycharm.png)
 
 如上图所示，JetBrains 提供了三个版本的 PyCharm，分别为：`Windows`、`macOS`和`Linux`. 在此，我们选择`macOS`，点击`DOWNLOAD`：
 
-![mac-pycharm](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/install-pycharm-on-mac/mac-pycharm.png)
+![mac-pycharm](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/mac-pycharm.png)
 
 如上图所示，下载完成后，打开安装包，拽动 PyCharm 图标到文件夹：
 
-![pycharm-icon](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/install-pycharm-on-mac/pycharm-icon.png)
+![pycharm-icon](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/pycharm-icon.png)
 
 如上图所示，启动 PyCharm：
 
-![pycharm-installation](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/install-pycharm-on-mac/pycharm-installation.png)
+![pycharm-installation](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/pycharm-installation.png)
 
 如上图所示，如果我们之前安装过 PyCharm 并且保存过配置文件，那么再次安装时，可以导入之前的配置文件；否则的话，如果我们是首次安装，则选择`Do not imports settins`：
 
-![pycharm-activation](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/install-pycharm-on-mac/pycharm-activation.png)
+![pycharm-activation](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/pycharm-activation.png)
 
 如上图所示，输入激活码，即可激活 PyCharm！至于 PyCharm 的激活码，可以通过「[IntelliJ IDEA 最新激活码（截止到 2019 年 5 月 4 日）](https://blog.csdn.net/qq_35246620/article/details/80522720)」获取，由于 IntelliJ IDEA 和 PyCharm 都属于 JetBrains，因此其激活码可以共用。
 
-![pycharm-over](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/install-pycharm-on-mac/pycharm-over.png)
+![pycharm-over](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/pycharm-over.png)
 
 如上图所示，PyCharm 世界的大门已经打开。Next，it's your time！此外，在我们首次启动 PyCharm 的时候，PyCharm 会进行初始化配置，如下图所示：
 
-![pycharm-configuration](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/install-pycharm-on-mac/pycharm-configuration.png)
+![pycharm-configuration](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/pycharm-configuration.png)
 
 - **标注 1**：键盘 scheme；
 - **标注 2**：IDE 主题；

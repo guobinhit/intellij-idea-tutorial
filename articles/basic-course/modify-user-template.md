@@ -2,7 +2,7 @@
 
 在博文「[设置 IntelliJ IDEA 主题和字体的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/theme-and-font.md)」中，我们进一步了解了 IntelliJ IDEA 的个性化设置功能，包括主题和字体的常用设置等，修改后，具体的效果，如下图所示：
 
-![default-template](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/modify-user-template/default-template.png)
+![default-template](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/modify-user-template/default-template.png)
 
 观察上图，不知道大家有没有注意到：IntelliJ IDEA 自带模板注释的功能。如上图所示，在创建 Java 类的时候，其自带的模板注释内容如下：
 
@@ -25,21 +25,21 @@
 
 > 在`Settings`中进行修改
 
-![settings](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/modify-user-template/settings.png)
+![settings](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/modify-user-template/settings.png)
 
 如上图所示，我们定位到`Editor > File and Code Templates`界面，然后选择`Includes`中的`File Header`，将其中的`${USER}`直接修改成我们自己定义的名称，例如，博主将其设置为`维C果糖`，然后点击`Apply`。接下来，在`demo`目录下，创建测试类`CeshiUser`，其效果如下图所示：
 
-![test-settings](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/modify-user-template/test-settings.png)
+![test-settings](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/modify-user-template/test-settings.png)
 
 如上图所示，显然咱们的设置生效啦！
 
 > 在`bin`目录下修改`idea.exe`配置文件
 
-![bin-idea](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/modify-user-template/bin-idea.png)
+![bin-idea](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/modify-user-template/bin-idea.png)
 
 如上图所示，我们打开了 IntelliJ IDEA 安装目录中`bin`目录下的`idea.exe`配置文件，并且添加了一行内容`-Duser.name=charies`，接下来，保存该配置文件，重新启动 IntelliJ IDEA，在`demo`目录下，创建测试类`CeshiUser2`，其效果如下图所示：
 
-![test-bin-idea](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/modify-user-template/test-bin-idea.png)
+![test-bin-idea](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/modify-user-template/test-bin-idea.png)
 
 如上图所示，显然我们的设置生效啦！不过在这里，有两点需要注意，那就是：
 

@@ -3,7 +3,7 @@
 
 在我们的编程生涯中，调试代码是免不了的，而如何调试代码就显得尤为重要了，其中利用 IDE 自带的调试工具，是我们快速定位问题的重要手段之一。在此，我们就一起来了解一下 IntelliJ IDEA 自带的调试工具，熟悉常用的`Debug`技巧。
 
-![debug-common-button](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/debug-skills/debug-common-button.png)
+![debug-common-button](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/debug-skills/debug-common-button.png)
 
 - **标注 1**：`Show Execution Point `，显示执行端点(`Alt + F10`)；
 - **标注 2**：`Step Over`，跳到下一步(`F8`)；
@@ -19,7 +19,7 @@
 
 如上述所示，都是一些常用的功能。其中，点击 **标注 9** 所示的`View Breakpoints`按钮，如下图所示：
 
-![show-breakpoints-control](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/debug-skills/show-breakpoints-control.png)
+![show-breakpoints-control](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/debug-skills/show-breakpoints-control.png)
 
 - **标注 1**：`View Breakpoints`，查看断点，展示更多高级设置；
 - **标注 2**：`Java Line Breakpoints`，展示项目中设置的所有断点；
@@ -29,11 +29,11 @@
 
 在上述的标注中，通过 **标注 3** 我们可以很方便的设置条件断点；通过 **标注 4** 我们可以设置一次性断点，不用我们每次手动的设置和取消断点；通过 **标注 5** 我们可以设置更加高级的断点击中条件。特别地，在`Debug`模式下，我们也可以双击鼠标右键，唤出常用的工具菜单，其效果如下图红框标记所示，提供了评估表达式、进入光标位置、强制进入光标位置和添加`Watches`等快捷按钮：
 
-![double-click-right-key](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/debug-skills/double-click-right-key.png)
+![double-click-right-key](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/debug-skills/double-click-right-key.png)
 
 当我们点击`Evaluate Expression`按钮之后，会弹出如下界面：
 
-![evaluate-expression](https://github.com/guobinhit/intellij-idea-tutorial/tree/master/images/basic-course/debug-skills/evaluate-expression.png)
+![evaluate-expression](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/debug-skills/evaluate-expression.png)
 
 - **标注 1**：`Condition expression`，待评估的表达式；
 - **标注 2**：`Evaluate`，评估按钮，点击后进行评估。
