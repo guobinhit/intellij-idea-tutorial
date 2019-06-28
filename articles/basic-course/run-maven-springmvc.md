@@ -186,9 +186,7 @@ public class AnnotationController {
 
 如果还解决不了问题的话，呃，再检查检查  IntelliJ IDEA  的 Java 编译器的版本吧，囧！
 
----------
 
-**温馨提示**：上述的示例代码已上传至 GitHub 中的「[gitcode](https://github.com/guobinhit/gitcode)」项目之中啦！
 
 ----------
 ———— ☆☆☆ —— [返回 -> 史上最简单的 IntelliJ IDEA 教程 <- 目录](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/README.md) —— ☆☆☆ ————

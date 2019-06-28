@@ -2,11 +2,11 @@
 
 在我们用 IntelliJ IDEA 向 SVN 或者 Git 提交代码的时候，IntelliJ IDEA 提供了一个自动分析代码的功能，即`Perform code analysis`： 
 
-![subversion](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/code-analysis/subversion.png)
+![subversion](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/code-analysis/subversion.png)
 
 如上图所示，当我们勾选`Perform code analysis`之后，点击`commit`，IntelliJ IDEA 就会在提交代码之前对项目的代码进行分析检查，并将检查结果以错误和警告的形式展示出来：
 
-![code-analysis](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/code-analysis/code-analysis.png)
+![code-analysis](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/code-analysis/code-analysis.png)
 
 如上图所示，这是`Code Analysis`的结果示例，为`No errors and 6 warnings`. 如果我们想进一步查看`Code Analysis`的结果，即`errors`和`warnings`的详情，可以点击`Review`，点击`Review`之后， IntelliJ IDEA 会展示出一系列具体发生错误和警告的类及位置，这有助于我们解决问题。
 

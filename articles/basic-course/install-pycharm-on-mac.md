@@ -24,7 +24,7 @@
 
 ![pycharm-activation](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/pycharm-activation.png)
 
-如上图所示，输入激活码，即可激活 PyCharm！至于 PyCharm 的激活码，可以通过「[IntelliJ IDEA 最新激活码（截止到 2019 年 5 月 4 日）](https://blog.csdn.net/qq_35246620/article/details/80522720)」获取，由于 IntelliJ IDEA 和 PyCharm 都属于 JetBrains，因此其激活码可以共用。
+如上图所示，输入激活码，即可激活 PyCharm！至于 PyCharm 的激活码，可以通过「[IntelliJ IDEA 最新注册码（截止到2020年3月11日）](https://guobinhit.blog.csdn.net/article/details/89040919)」获取，由于 IntelliJ IDEA 和 PyCharm 都属于 JetBrains，因此其激活码可以共用。
 
 ![pycharm-over](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/basic-course/install-pycharm-on-mac/pycharm-over.png)
 
@@ -43,9 +43,10 @@
 
 **相关文章**：[详述 Mac 系统下安装及卸载 Python 的方法](https://blog.csdn.net/qq_35246620/article/details/78252549)
 
-----------
 
-**温馨提示**：由于 IntelliJ IDEA 和 PyCharm 都属于 JetBrains，因此 IDE 的配置也大致相同，具体可以参考「[史上最简单的 IntelliJ IDEA 教程](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/README.md)」。
+----------
+———— ☆☆☆ —— [返回 -> 史上最简单的 IntelliJ IDEA 教程 <- 目录](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/README.md) —— ☆☆☆ ————
+
 
 
 
