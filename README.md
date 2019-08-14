@@ -15,7 +15,6 @@
 
 - [基础教程](#基础教程)
 - [实用技巧](#实用技巧)
-- [疑难杂症](#疑难杂症)
 
 
 
@@ -81,9 +80,6 @@
   - [利用 IntelliJ IDEA 进行代码对比的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/compare-code.md)
 - 依赖冲突
   - [详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/conflict-jar.md)
-
-
-## 疑难杂症
 
 
 
