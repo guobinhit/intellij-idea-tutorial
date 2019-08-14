@@ -72,6 +72,7 @@
   - [详述 IntelliJ IDEA 提交代码前的 Code Analysis 机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/code-analysis.md)
 - 版本管理
   - [关于 IntelliJ IDEA 中 Schedule for Addition 的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/schedule.md)
+  - [详述 IntelliJ IDEA 版本控制不显示颜色提示的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/version-control-color-tips.md)
 - 彩色代码主题
   - [手把手教你设置 IntelliJ IDEA 彩色代码主题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/color-code.md)
 - 远程调试
