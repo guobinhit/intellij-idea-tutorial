@@ -1,6 +1,6 @@
 # 史上最简单的 IntelliJ IDEA 教程
 
-![last commit](https://img.shields.io/github/last-commit/guobinhit/intellij-idea-tutorial.svg)![issues](https://img.shields.io/github/issues/guobinhit/intellij-idea-tutorial.svg)![stars](https://img.shields.io/github/stars/guobinhit/intellij-idea-tutorial.svg)![forks](	https://img.shields.io/github/forks/guobinhit/intellij-idea-tutorial.svg)![license](https://img.shields.io/github/license/guobinhit/intellij-idea-tutorial.svg)
+![author](https://img.shields.io/badge/author-chariesgavin-blueviolet.svg)![lover](https://img.shields.io/badge/lover-xiaoxue-red.svg)![last commit](https://img.shields.io/github/last-commit/guobinhit/intellij-idea-tutorial.svg)![issues](https://img.shields.io/github/issues/guobinhit/intellij-idea-tutorial.svg)![stars](https://img.shields.io/github/stars/guobinhit/intellij-idea-tutorial.svg)![forks](	https://img.shields.io/github/forks/guobinhit/intellij-idea-tutorial.svg)![license](https://img.shields.io/github/license/guobinhit/intellij-idea-tutorial.svg)
 
 ## 前言
 
