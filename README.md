@@ -8,7 +8,7 @@
   
 - **温馨提示**：此教程使用的工具为`IntelliJ IDEA 2017(.1.5)`版本
 - **官网地址**：http://www.jetbrains.com/idea/download
-- **免费激活码**：https://guobinhit.blog.csdn.net/article/details/101631723
+- **免费激活码**：https://guobinhit.blog.csdn.net/article/details/80522720
 
 
 ## 索引
