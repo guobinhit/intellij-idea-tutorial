@@ -8,7 +8,7 @@
   
 - **温馨提示**：此教程使用的工具为`IntelliJ IDEA 2017(.1.5)`版本
 - **官网地址**：http://www.jetbrains.com/idea/download
-- **免费激活码**：https://guobinhit.blog.csdn.net/article/details/80522720
+- **免费激活码**：[截止到 2020 年 3 月 11 日](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/idea-active-code.md)
 
 
 ## 索引
