@@ -3,6 +3,7 @@
 在使用 IntelliJ IDEA  版本控制功能的时候，有一个功能点特别好，那就是对于新增文件或者修改文件，IDEA 会给出颜色提示，以区分文件类型，如新增、修改或者未加入版本控制。但偶尔会出现导入新`check out`到本地的项目的时候，不显示颜色提示的问题！
 
 ![new-node](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/version-control-color-tips/new-node.png)
+
 如上图所示，这是一个基于 Git 进行版本控制的名为`leetcodes`的项目。我们新建了一个名为`NewNode`的类文件，但是未显示任何颜色提示，以区分新增文件和原有文件的区别，即是否与远程仓库中的文件版本一致。现在，我们就来解决这个问题。
 
 ![preferences](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/version-control-color-tips/preferences.png)
