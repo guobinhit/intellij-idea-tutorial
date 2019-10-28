@@ -2,6 +2,8 @@
 
 ![guobin-registercode](https://img-blog.csdnimg.cn/20190405102627920.png)
 
+- 首先，呼吁有条件的同学「[购买正版](https://www.jetbrains.com/idea/buy/#edition=commercial)」，支持正版，人人有责，捂脸！
+
 > **两个激活码**：一个是可以激活 JetBrains 全部产品最新版本的激活码，另一个是拥有`IntelliJ IDEA(2017.1)`及其回退版本的永久授权的激活码。无论大家选择哪个激活码，都千万不要忘记修改`hosts`文件，以拦截 JetBrains 收集激活码的使用信息。否则的话，我们分享的注册码可能很快就被封掉啦！重要的事情说三遍，
 
 - **第一遍，修改 hosts 文件** ~~~
@@ -17,16 +19,16 @@
 
 具体的修改`hosts`文件的方法，可以参考「[详述 hosts 文件的作用及修改 hosts 文件的方法](http://blog.csdn.net/qq_35246620/article/details/66970211?locationNum=1&fps=1)」这篇文章。
 
-
-
 - **赞助**：欢迎大家扫码赞助 ~ ~ ~ ！！！
 
 ![redpack](https://img-blog.csdn.net/20180711100240431)
 
 - **支付宝扫码 - 赞助**：
+
 ![Alipay](https://img-blog.csdn.net/20180531133330700)
 
 - **微信扫码 - 赞助**：
+
 ![WeChat](https://img-blog.csdn.net/20180531133433974)
 
 

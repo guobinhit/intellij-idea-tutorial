@@ -8,6 +8,7 @@
   
 - **温馨提示**：此教程使用的工具为`IntelliJ IDEA 2017(.1.5)`版本
 - **官网地址**：http://www.jetbrains.com/idea/download
+- **免费激活码**：首先，呼吁有条件的同学购买正版；其次，你懂得，[click here](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/idea-active-code.md)
 
 
 ## 索引
