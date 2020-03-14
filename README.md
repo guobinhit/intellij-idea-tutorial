@@ -14,6 +14,7 @@
 
 - [基础教程](#基础教程)
 - [实用技巧](#实用技巧)
+- [疑难杂症](#疑难杂症)
 - [星路历程](#星路历程)
 
 
@@ -82,6 +83,9 @@
   - [详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/conflict-jar.md)
 
 
+## 疑难杂症
+
+- [详述 IntelliJ IDEA 遇到 java -source 1.3 中不支持某某操作的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/java-source.md)
 
 
 ## 星路历程
