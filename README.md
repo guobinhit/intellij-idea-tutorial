@@ -87,7 +87,7 @@
 
 - [详述 IntelliJ IDEA 遇到 java -source 1.3 中不支持某某操作的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/java-source.md)
 - [详述 IntelliJ IDEA 遇到 JavaLaunchHelper 多种实现的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/java-launch-helper.md)
-
+- [详述 IntelliJ IDEA 遇到快捷键以及删除键不好使的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/keymap-delete.md)
 
 ## 星路历程
 
