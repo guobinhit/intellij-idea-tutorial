@@ -49,6 +49,11 @@
 
 至此，IntelliJ IDEA 远程调试 Tomcat 的配置已经完成了，调试的后续步骤按正常的调试技巧进行就可以啦！
 
+----------
+
+如果我们的项目是基于 Spring Boot 搭建的，那么上述直接修改 Tomcat  的 bin 目录下的`catalina.sh`文件就行不通了。但是这时，在部署 Spring Boot 的时候，我们通常要为其写一个启动脚本，我们只需要将上述配置语句添加到 Spring Boot 项目的启动脚本里面，同样可以实现远程调试的目的。例如，
+
+![startup](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/remote/startup.png)
 
 ----------
 
