@@ -76,7 +76,7 @@
 - 彩色代码主题
   - [手把手教你设置 IntelliJ IDEA 彩色代码主题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/color-code.md)
 - 远程调试
-  - [详述 IntelliJ IDEA 远程调试 Tomcat 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/remote.md)
+  - [详述 IntelliJ IDEA 远程调试 Tomcat 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/the-method-of-remote-debugging-with-idea.md)
 - 代码对比
   - [利用 IntelliJ IDEA 进行代码对比的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/compare-code.md)
 - 依赖冲突

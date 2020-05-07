@@ -4,15 +4,15 @@
 
 首先，配置`remote`：
 
-![edit-configurations](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/remote/edit-configurations.png)
+![edit-configurations](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/the-method-of-remote-debugging-with-idea/edit-configurations.png)
 
 如上图所示，点击`Edit Configurations`，进入如下界面：
 
-![remote](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/remote/remote.png)
+![remote](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/the-method-of-remote-debugging-with-idea/remote.png)
 
 如上图所示，我们进入了`Run/Debug Configurations`界面，然后点击左上角的`+`，选择`Remote`：
 
-![remote-debug](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/remote/remote-debug.png)
+![remote-debug](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/the-method-of-remote-debugging-with-idea/remote-debug.png)
 
 - **标注 1**：运行远程 JVM 的命令行参数；
 - **标注 2**：传输方式，默认为`Socket`；
@@ -45,7 +45,7 @@
 
 接下来，修改 Tomcat 的 bin 目录下的`catalina.sh`文件（如果是 Windows 系统则修改`catalina.bat`文件），将上述的导入语句添加到此文件中即可：
 
-![catalina-edit](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/remote/catalina-edit.png)
+![catalina-edit](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/the-method-of-remote-debugging-with-idea/catalina-edit.png)
 
 至此，IntelliJ IDEA 远程调试 Tomcat 的配置已经完成了，调试的后续步骤按正常的调试技巧进行就可以啦！
 
@@ -53,7 +53,7 @@
 
 如果我们的项目是基于 Spring Boot 搭建的，那么上述直接修改 Tomcat  的 bin 目录下的`catalina.sh`文件就行不通了。但是这时，在部署 Spring Boot 的时候，我们通常要为其写一个启动脚本，我们只需要将上述配置语句添加到 Spring Boot 项目的启动脚本里面，同样可以实现远程调试的目的。例如，
 
-![startup](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/remote/startup.png)
+![startup](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/the-method-of-remote-debugging-with-idea/startup.png)
 
 ----------
 
@@ -62,7 +62,7 @@
 
 　　在这里，我们假设服务器的 IP 地址为`10.11.12.39`，端口号为`16203`，设置完成后，进入`Debug`模式，如果连接成功，则会出现如下提示：
 
-![test-remote-debug](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/remote/test-remote-debug.png)
+![test-remote-debug](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/images/practical-skills/the-method-of-remote-debugging-with-idea/test-remote-debug.png)
 
 　　此外，如果我们是跨多个系统进行调试，则只需要在想要调试的系统中配置`Remote`，打上断点，启动`Debug`模式，然后在服务开始的地方执行程序即可进入到我们设置的断点。而且，如果我们在本地配置`Remote`并关联到某个 Tomcat，在`Debug`模式下，所有涉及到断点所在代码的功能，都会进入我们设置的断点。
 
