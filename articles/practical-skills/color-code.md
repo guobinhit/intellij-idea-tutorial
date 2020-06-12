@@ -54,5 +54,9 @@
 
 --------
 
+- 有关更多 IDEA 主题样式，可以访问：http://www.riaway.com/
+
+--------
+
 
 ———— ☆☆☆ —— 返回 -> [史上最简单的 IntelliJ IDEA 教程](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/README.md) <- 目录 —— ☆☆☆ ————
