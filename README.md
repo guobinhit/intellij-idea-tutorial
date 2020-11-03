@@ -89,6 +89,7 @@
 - [详述 IntelliJ IDEA 遇到 JavaLaunchHelper 多种实现的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/java-launch-helper.md)
 - [详述 IntelliJ IDEA 遇到快捷键以及删除键不好使的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/keymap-delete.md)
 - [详述 IntelliJ IDEA 遇到 Maven 项目打开（Open）或者导入（Import）失败的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/unable-import-maven-project.md)
+- [详述 IntelliJ IDEA 遇到 Maven 项目 pom.xml 文件没有识别的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/maven-pom-unrecognized.md)
 
 
 ## 星路历程
