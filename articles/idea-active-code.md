@@ -19,19 +19,6 @@
 
 具体的修改`hosts`文件的方法，可以参考「[详述 hosts 文件的作用及修改 hosts 文件的方法](http://blog.csdn.net/qq_35246620/article/details/66970211?locationNum=1&fps=1)」这篇文章。
 
-- **赞助**：欢迎大家扫码赞助 ~ ~ ~ ！！！
-
-![redpack](https://img-blog.csdn.net/20180711100240431)
-
-- **支付宝扫码 - 赞助**：
-
-![Alipay](https://img-blog.csdn.net/20180531133330700)
-
-- **微信扫码 - 赞助**：
-
-![WeChat](https://img-blog.csdn.net/20180531133433974)
-
-
 ### First Activation Code
 
 ```
