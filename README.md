@@ -92,17 +92,6 @@
 - [详述 IntelliJ IDEA 遇到 Maven 项目 pom.xml 文件没有识别的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/difficult-cases/maven-pom-unrecognized.md)
 
 
-## 星路历程
-
-[![Stargazers over time](https://starcharts.herokuapp.com/guobinhit/intellij-idea-tutorial.svg)](https://starcharts.herokuapp.com/guobinhit/intellij-idea-tutorial)
-
-## 致谢
-
-　　作为一个初学者，刚接触 IntelliJ IDEA 的时候，就有幸阅读了 [@Judas.n](https://github.com/judasn) 写的关于 IntelliJ IDEA 的教程，也获益良多。在此感谢 Judas.n 写的教程对我的启发，本教程也对 Judas.n 写的教程多有借鉴，下面附上其 GitHub 地址，欢迎感兴趣的童鞋移步到 Judas.n 的教程观摩学习。
-  
-- IntelliJ-IDEA-Tutorial: https://github.com/judasn/IntelliJ-IDEA-Tutorial 
-
-
 ----------
 此外，附上一句格言，望共勉：**好学若饥，谦卑若愚。**
 
